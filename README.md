@@ -6,9 +6,16 @@
   - [osTicket: Prerequisites and Installation](https://github.com/gennaevans/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/gennaevans/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gennaevans/ticket-lifecycle)
+
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/gennaevans/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gennaevans/azure-network-protocols)
+  - [Configuring A Virtual Machine and remote access ](https://github.com/gennaevans/configure-vm)
+  - [VPN Setup in Virtual Machine ](https://github.com/gennaevans/Setting-UP-A-VPN)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/gennaevans/azure-network-protocols)
+ 
+ 
+ - <b>Active Directory</b>
+   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gennaevans/Active-Directory)
+
 
 <h2>🤳Connect with me:</h2>
 
