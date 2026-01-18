@@ -9,7 +9,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring A Virtual Machine and remote access ](https://github.com/gennaevans/configure-vm)
-  - [VPN Setup in Virtual Machine ](https://github.com/gennaevans/Setting-UP-A-VPN)
+  - [VPN Setup in Virtual Machine ](https://github.com/gennaevans/VPN-Set-Up-In-VM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/gennaevans/azure-network-protocols)
  
  
